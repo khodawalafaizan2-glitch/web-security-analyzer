@@ -86,15 +86,6 @@ The analyzer performs normal HTTP/HTTPS requests and reviews configuration such 
 * Information exposure
 * HTTPS status
 
-## GitHub Updates
-
-After making changes:
-
-```bash
-git add .
-git commit -m "Describe your change"
-git push
-```
 
 ## Security Notice
 
